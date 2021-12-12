@@ -3,16 +3,16 @@
 ## LATIHAN 1
 
 #### Pada latihan ini mengubah kode menjadi fungsi menggunakan lambda
-Untuk perubahan kodenya seperti gambar dibawah ini.
+Untuk perubahan kodenya seperti gambar dibawah ini.     
 ![Gambar](ss/ss1.png)
 
-Untuk hasi program saat dijalankan seperti gambar dibawah ini.
+Untuk hasi program saat dijalankan seperti gambar dibawah ini.  
 ![Gambar](ss/ss2.png)
 
 ## Pratikum 6
 
 #### Untuk tugas pratikum ini membuat program sederhana dengan menginput data mahasiswa menggunakan fungsi.
-1. Berikut adalah flowchart program.
+1. Berikut adalah flowchart program.                    
 ![Gambar](ss/ss3.png)
 2. dict = [], gunanya untuk menampung data mahasiswa.
 3. def tambah():, gunanya untuk menambahkan data mahasiswa.
@@ -33,5 +33,5 @@ Diatas merupakan kode program untuk menginput data mahasiswa.
 ![Gmabar](ss/ss9.png)
 10. Tampilan progam saat dijalankan dengan perintah ubah berdasarkan nama.
 ![Gambar](ss/ss10.png)
-11. Tampilan program saat dijalankan dengan perintah keluar.
+11. Tampilan program saat dijalankan dengan perintah keluar.    
 ![Gambar](ss/ss11.png)
