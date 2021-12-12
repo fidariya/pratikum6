@@ -6,7 +6,7 @@
 Untuk perubahan kodenya seperti gambar dibawah ini.     
 ![Gambar](ss/ss1.png)
 
-Untuk hasil program saat dijalankan seperti gambar dibawah ini. 
+Untuk hasil program saat dijalankan seperti gambar dibawah ini.     
 ![Gambar](ss/ss2.png)
 
 ## Pratikum 6
